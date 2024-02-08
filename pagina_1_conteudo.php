@@ -1,12 +1,7 @@
 <?php 
     for($i = 0; $i < 100000000; $i++)
 
-
-
 ?>
-
-
-
 
 
 <div class="panel panel-default">
